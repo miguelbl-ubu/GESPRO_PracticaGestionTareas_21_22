@@ -5,3 +5,4 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 Cristian Fernández Martínez
 Alicia García Pérez
 Rocío González Antón
+Diego Garda Porto
