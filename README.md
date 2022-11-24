@@ -30,11 +30,10 @@ Somos una pequeña empresa creada en la asignatura Gestión de Proyectos de 3º 
 
 ### Descripción general del proyecto
 Con este proyecto pretendemos agilizar el proceso de traduccion, ya que el usuario no tiene que invertir tiempo en escribir o dictar el texto del cual quiere obtener una traducción.
-Este proyecto esta en su versión Beta ya que nuestro equipo está en el proceso de mejorar la aplicacion y sus características, sin embargo con el fin de obtener feedback de nuestros usuarios hemos decidio publicar esta versión con la cual esperamos obtener sugerencias de mejora. 
+
 
 ### Estado del proyecto
-
-
+Este proyecto esta en su versión Beta ya que nuestro equipo está en el proceso de mejorar la aplicacion y sus características, sin embargo con el fin de obtener feedback de nuestros usuarios hemos decidio publicar esta versión con la cual esperamos obtener sugerencias de mejora. 
 
 ### Requisitos del entorno de desarrollo
 
