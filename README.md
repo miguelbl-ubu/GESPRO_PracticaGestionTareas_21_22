@@ -50,7 +50,17 @@ Además contará con una base en la que se almacenen los distintos tipos de letr
 Nuestra aplicación contará con retroalimentación por parte de los usuarios, en las cuáles nos recomendarán mejoras. Además, contará con unos análisis de rendimiento en los cuales se verá reflejado el funcionamiento de la aplicación con respecto a la velocidad de traducción de los distintos idiomas.
 
 ### Guía de instalación y funcionamiento
-Para poder utilizar esta aplicación es necesario darla los permisos necesarios, como por ejemplo, acceso a la cámara, acceso a la galería...
+Para poder utilizar esta aplicación es necesario darla los permisos necesarios, acceso a la cámara y acceso a la galería y acceso a voz y teclado.
+Se podrá acceder al instalador mediante el archivo "Traductora.apk" que hemos subido a nuestro repositorio y a continuación podrá observar que se inicia la descarga automaticamete cuya localización se determinará en función de sus ajustes opcionales de su navegador. 
+
+Una vez descargado se ejecutara el archivo "Traductora.apk" y se instalará la aplicación y se accederá a sus funcionalidades: 
+    1- En la esquina superior derecha se encontrará un icono de una camara que abrirá la aplicación Camara de Fotos de su dispositivo movil.
+    2- Encuentre el texto que queira traducir y pulse el boton inferiror con forma redonta.
+    3- Inmediatamente saldrá una pestaña emergente que le dejará escoger el idioma que usted desee traducir.
+    4- Una vez esperado el tiempo necesario para realizar la traducción por parte de la aplicación se le mostrara la misma imagen pero con el texto traducido al idioma 
+       que used a escogido. 
+    5- 
+
 
 ### Lista de las tecnologías utilizadas
 
