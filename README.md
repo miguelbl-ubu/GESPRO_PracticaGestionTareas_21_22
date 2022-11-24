@@ -60,20 +60,20 @@ Para poder utilizar esta aplicación es necesario darla los permisos necesarios,
 Se podrá acceder al instalador mediante el archivo "Traductora.apk" que hemos subido a nuestro repositorio y a continuación podrá observar que se inicia la descarga automaticamete cuya localización se determinará en función de sus ajustes opcionales de su navegador. 
 
 Una vez descargado se ejecutara el archivo "Traductora.apk" y se instalará la aplicación y se accederá a sus funcionalidades: 
-    - 1 En la esquina superior derecha se encontrará un icono de una camara que abrirá la aplicación Camara de Fotos de su dispositivo movil.
-    - 2 Encuentre el texto que queira traducir y pulse el boton inferiror con forma circular.
-    - 3 Inmediatamente saldrá una pestaña emergente que le dejará escoger el idioma que usted desee traducir.
-    - 4 Una vez esperado el tiempo necesario para realizar la traducción por parte de la aplicación se le mostrara la misma imagen pero con el texto traducido    
+- 1 En la esquina superior derecha se encontrará un icono de una camara que abrirá la aplicación Camara de Fotos de su dispositivo movil.
+- 2 Encuentre el texto que queira traducir y pulse el boton inferiror con forma circular.
+- 3 Inmediatamente saldrá una pestaña emergente que le dejará escoger el idioma que usted desee traducir.
+- 4 Una vez esperado el tiempo necesario para realizar la traducción por parte de la aplicación se le mostrara la misma imagen pero con el texto traducido    
               al idioma que used a escogido. 
-    - 5 Casos de modificación: 
-        - 5.1- Quiere cambiar el lenguaje a traducir: Podrá viszualizar en la esquina inferior izquiera el logo de un simbolo suma con el cual podrá cambiar el idioma de traducción.
-        - 5.2- Quiere modificar parte del texto o su totalidad: Pulse encima del texto y se abrira el teclado donde usted podrá realizar los cambios del texto que desee.
+- 5 Casos de modificación: 
+    - 5.1- Quiere cambiar el lenguaje a traducir: Podrá viszualizar en la esquina inferior izquiera el logo de un simbolo suma con el cual podrá cambiar el idioma de traducción.
+    - 5.2- Quiere modificar parte del texto o su totalidad: Pulse encima del texto y se abrira el teclado donde usted podrá realizar los cambios del texto que desee.
     
         
 
 ----
 ### Lista de las tecnologías utilizadas
-
+- G
 
 
 
