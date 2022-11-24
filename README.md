@@ -68,6 +68,7 @@ Una vez descargado se ejecutara el archivo "Traductora.apk" y se instalará la a
     - [5](#5) Casos de modificación: 
         - 5.1- Quiere cambiar el lenguaje a traducir: Podrá viszualizar en la esquina inferior izquiera el logo de un simbolo suma con el cual podrá cambiar el idioma de traducción.
         - 5.2- Quiere modificar parte del texto o su totalidad: Pulse encima del texto y se abrira el teclado donde usted podrá realizar los cambios del texto que desee.
+    -
         
 
 ----
