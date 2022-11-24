@@ -17,7 +17,6 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 - [Descripción general del proyecto](#descripción-general-del-proyecto)
 - [Estado del proyecto](#estado-del-proyecto)
 - [Requisitos del entorno de desarrollo para la integración](#requisitos-del-entorno-de-desarrollo)
-   -[] 
 - [Guía de instalación y funcionamiento](#guía-de-instalación-y-funcionamiento)
 - [Lista de las tecnologías utilizadas](#lista-de-las-tecnologías-utilizadas)
 
@@ -37,17 +36,6 @@ Con este proyecto pretendemos agilizar el proceso de traduccion, ya que el usuar
 Este proyecto esta en su versión Beta ya que nuestro equipo está en el proceso de mejorar la aplicacion y sus características, sin embargo con el fin de obtener feedback de nuestros usuarios hemos decidio publicar esta versión con la cual esperamos obtener sugerencias de mejora. 
 
 ### Requisitos del entorno de desarrollo
-#### Requisitos básicos del hardware y software:
-Se necesitará un sistema operativo compatible con Android o IOS. Además de que el dispositivo móvil tenga una cámara, y la opción de tener teclado. Dando por hecho que tiene pantalla, la cual puede ser táctil o no.
-
-También será necesario que el dispositivo móvil tenga buena capacidad de almacenamiento, además de contar con buena conexión a internet, para evitar que la aplicación se ralentice.
-
-#### Requisitos de configuración del entorno
-La aplicación cuenta con una base de datos en la que están guardados los distintos idiomas a los que se va a poder traducir el texto de la imagen. 
-Además contará con una base en la que se almacenen los distintos tipos de letras a mano para facilitar la comprensión de esta. 
-
-#### Herramientas auxiliares
-Nuestra aplicación contará con retroalimentación por parte de los usuarios, en las cuáles nos recomendarán mejoras. Además, contará con unos análisis de rendimiento en los cuales se verá reflejado el funcionamiento de la aplicación con respecto a la velocidad de traducción de los distintos idiomas.
 
 ### Guía de instalación y funcionamiento
 Para poder utilizar esta aplicación es necesario darla los permisos necesarios, acceso a la cámara y acceso a la galería y acceso a voz y teclado.
@@ -59,7 +47,10 @@ Una vez descargado se ejecutara el archivo "Traductora.apk" y se instalará la a
     3- Inmediatamente saldrá una pestaña emergente que le dejará escoger el idioma que usted desee traducir.
     4- Una vez esperado el tiempo necesario para realizar la traducción por parte de la aplicación se le mostrara la misma imagen pero con el texto traducido al idioma 
        que used a escogido. 
-    5- 
+    5- Casos de modificación: 
+        5.1- Quiere cambiar el lenguaje a traducir: Podrá viszualizar en la esquina inferior izquiera el logo de un simbolo suma con el cual podrá cambiar el idioma de traducción.
+        5.2- Quiere modificar parte del texto o su totalidad: Pulse encima del texto y se abrira el teclado donde usted podrá realizar los cambios del texto que desee.
+        
 
 
 ### Lista de las tecnologías utilizadas
