@@ -15,7 +15,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 ## INDICE
 - [Intro](#quiénes-somos)
 - [Descripción general del proyecto](#descripción-general-del-proyecto)
-- [Estado del proyecto](#estado)
+- [Estado del proyecto](#estado-del-proyecto)
 - [Requisitos del entorno de desarrollo para la integración](#requisitos-del-entorno-de-desarrollo)
 - [Guía de instalación y funcionamiento](#guía-de-instalación-y-funcionamiento)
 - [Lista de las tecnologías utilizadas](#lista-de-las-tecnologías-utilizadas)
@@ -32,13 +32,16 @@ Somos una pequeña empresa creada en la asignatura Gestión de Proyectos de 3º 
 Con este proyecto pretendemos agilizar el proceso de traduccion, ya que el usuario no tiene que invertir tiempo en escribir o dictar el texto del cual quiere obtener una traducción.
 Este proyecto esta en su versión Beta ya que nuestro equipo está en el proceso de mejorar la aplicacion y sus características, sin embargo con el fin de obtener feedback de nuestros usuarios hemos decidio publicar esta versión con la cual esperamos obtener sugerencias de mejora. 
 
+### Estado del proyecto
 
-### Requisitos
+
+
+### Requisitos del entorno de desarrollo
 
 ### Guía de instalación y funcionamiento
 Para poder utilizar esta aplicación es necesario darla los permisos necesarios, como por ejemplo, acceso a la cámara, acceso a la galería...
 
-
+### Lista de las tecnologías utilizadas
 
 
 
