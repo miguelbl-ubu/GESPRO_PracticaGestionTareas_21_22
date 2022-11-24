@@ -30,7 +30,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 ### ¿Quiénes somos?
 
-Somos una pequeña empresa creada en la asignatura Gestión de Proyectos de 3º de Ingeniería Informatica de la Universidad de Burgos cuya misión es simular la gestión de una empresa conformada por un Product Owner (Beatrice Izabel Toth), un Scrum Manager (Lorena Bueno Porras) y un desarrollador (Jorge Martinez Marin) que ha decidido crear una aplicación que traduzca un texto a partir de una foto. 
+Somos una pequeña empresa creada en la asignatura Gestión de Proyectos de 3º de Ingeniería Informatica de la Universidad de Burgos cuya misión es simular la gestión de una empresa conformada por un Product Owner (Beatrice Izabel Toth), un Scrum Manager (Lorena Bueno Porras) y un desarrollador (Jorge Martinez Martin) que ha decidido crear una aplicación que traduzca un texto a partir de una foto. 
 
 ----
 ### Descripción general del proyecto
@@ -73,7 +73,10 @@ Una vez descargado se ejecutara el archivo "Traductora.apk" y se instalará la a
 
 ----
 ### Lista de las tecnologías utilizadas
-- G
+- [Github](https://github.com)
+- [Visual Studio](https://visualstudio.microsoft.com/es/)
+- [Miro](https://miro.com/es/)
+- [Outlook](https://outlook.live.com/owa/) 
 
 
 
