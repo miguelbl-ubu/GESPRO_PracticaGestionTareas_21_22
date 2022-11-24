@@ -1,5 +1,5 @@
 
-TRADUCTORA
+TRADUCTORADA
 ===========
 ![Logo](Logo/Logo.jpg)
 
