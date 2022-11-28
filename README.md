@@ -11,13 +11,19 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 ##ÍNDICE
 
 *[Descripción del proyecto](#descripción-del-proyecto) 
+
 *[Funcionalidades](#funcionalidades) 
+
 *[Estado del proyecto](#estado-del-proyecto)
+
 *[Lenguaje soportado](#lenguaje-soportado)
+
 *[Ayuda](#ayuda)
+
 *[Autores](#autores)
 
 
+<h3 href="#autores">Autores</h3> 
 #Cristian Fernández Martínez
 #Alicia García Pérez
 #Rocío González Antón
