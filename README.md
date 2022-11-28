@@ -7,7 +7,8 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 
 ##ÍNDICE
-*[Descripción del proyecto](#descripción-del-proyecto) \n
+
+*[Descripción del proyecto](#descripción-del-proyecto) 
 *[Funcionalidades](#funcionalidades) 
 *[Estado del proyecto](#estado-del-proyecto)
 *[Lenguaje soportado](#lenguaje-soportado)
