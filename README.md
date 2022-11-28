@@ -8,7 +8,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
 
-##ÍNDICE
+<h2 align="center"> ÍNDICE </h2>
 
 * [Descripción del proyecto](#descripción-del-proyecto) 
 
