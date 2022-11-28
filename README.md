@@ -24,11 +24,24 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 <h3 href="#descripción-del-proyecto">Descripción del proyecto</h3>
 
-<h3 href="#funcionalidades">:hammer:Funcionalidades</h3>
+<h3 href="#funcionalidades">:hammer:Funcionalidades:hammer:</h3>
+
+<h3 href="#estado-del-proyecto">Estado del proyecto</h3>
+:construction: Proyecto en desarrollo :construction:
+
+<h3 href="#lenguaje-soportado">:earth_africa:Lenguaje soportado:earth_africa:</h3>
+Por ahora solo está disponible un lenguaje:
+ - Castellano:es:
+En un futuro intentaremos implementar nuevos idiomas como:
+ - Ingles:gb:
+ - Alemán:de:
+
+<h3 href="#ayuda">:woman_shrugging:Ayuda:man_shrugging:</h3>
+Para encontrar el apartado de ayuda tendremos distintas opciones que aparecerán en la propia aplicación (se podrá encontrar más información sobre este tema en el wiki).
 
 <h3 href="#autores">Autores</h3> 
-- Cristian Fernández Martínez
-- Alicia García Pérez
-- Rocío González Antón
-- Diego Garda Porto
+ - Cristian Fernández Martínez 
+ - Alicia García Pérez 
+ - Rocío González Antón 
+ - Diego Garda Porto
 
