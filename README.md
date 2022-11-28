@@ -31,10 +31,10 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 <h3 href="#lenguaje-soportado">:earth_africa:Lenguaje soportado:earth_africa:</h3>
 Por ahora solo está disponible un lenguaje:
- - Castellano:es:
+ - Castellano :flag_es:
 En un futuro intentaremos implementar nuevos idiomas como:
- - Ingles:gb:
- - Alemán:de:
+ - Ingles :gb:
+ - Alemán :de:
 
 <h3 href="#ayuda">:woman_shrugging:Ayuda:man_shrugging:</h3>
 Para encontrar el apartado de ayuda tendremos distintas opciones que aparecerán en la propia aplicación (se podrá encontrar más información sobre este tema en el wiki).
