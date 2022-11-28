@@ -7,12 +7,12 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 
 ##ÍNDICE
-# *[Descripción del proyecto](#descripción-del-proyecto)
-# *[Funcionalidades](#funcionalidades)
-# *[Estado del proyecto](#estado-del-proyecto)
-# *[Lenguaje soportado](#lenguaje-soportado)
-# *[Ayuda](#ayuda)
-# *[Autores](#autores)
+*[Descripción del proyecto](#descripción-del-proyecto) \n
+*[Funcionalidades](#funcionalidades) 
+*[Estado del proyecto](#estado-del-proyecto)
+*[Lenguaje soportado](#lenguaje-soportado)
+*[Ayuda](#ayuda)
+*[Autores](#autores)
 
 
 #Cristian Fernández Martínez
