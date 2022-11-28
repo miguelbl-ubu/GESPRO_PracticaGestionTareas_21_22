@@ -22,11 +22,11 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 * [Autores](#autores)
 
-<h2 href="descripción-del-proyecto">Descripción del proyecto</h2>
+<h3 href="descripción-del-proyecto">Descripción del proyecto</h3>
 
 <h3 href="funcionalidades">:hammer:Funcionalidades</h3>
 
-<h7 href="#autores">Autores</h7> 
+<h3 href="autores">Autores</h3> 
 - Cristian Fernández Martínez
 - Alicia García Pérez
 - Rocío González Antón
