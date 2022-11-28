@@ -9,7 +9,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 ### Miembros:
 - Beatrice Izabel Toth
 - Lorena Bueno Porras
-- Jorge Martinez Martin
+- Jorge Martínez Martín
 ----
 
 ## INDICE
