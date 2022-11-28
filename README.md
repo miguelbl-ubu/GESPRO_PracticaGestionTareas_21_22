@@ -10,22 +10,25 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 ##ÍNDICE
 
-*[Descripción del proyecto](#descripción-del-proyecto) 
+* [Descripción del proyecto](#descripción-del-proyecto) 
 
-*[Funcionalidades](#funcionalidades) 
+* [Funcionalidades](#funcionalidades) 
 
-*[Estado del proyecto](#estado-del-proyecto)
+* [Estado del proyecto](#estado-del-proyecto)
 
-*[Lenguaje soportado](#lenguaje-soportado)
+* [Lenguaje soportado](#lenguaje-soportado)
 
-*[Ayuda](#ayuda)
+* [Ayuda](#ayuda)
 
-*[Autores](#autores)
+* [Autores](#autores)
 
+<h2 href="descripción-del-proyecto">Descripción del proyecto</h2>
 
-<h3 href="#autores">Autores</h3> 
-#Cristian Fernández Martínez
-#Alicia García Pérez
-#Rocío González Antón
-#Diego Garda Porto
+<h3 href="funcionalidades">:hammer:Funcionalidades</h3>
+
+<h7 href="#autores">Autores</h7> 
+- Cristian Fernández Martínez
+- Alicia García Pérez
+- Rocío González Antón
+- Diego Garda Porto
 
