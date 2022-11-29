@@ -32,7 +32,19 @@ Organiza-te es una aplicación que tendrá distintas funcionalidades que se desc
 
 
 <h3 id="funcionalidades">:hammer:Funcionalidades:hammer:</h3>
-- `Funcionalidad 1`: descripción - `Funcionalidad 2`: descrpción - `Funcionalidad 3`: descripción
+ - Inicio de sesion: Todos los usuarios deberán crearse un perfil e iniciar sesion en la aplicación.
+
+ - Lista de amigos: La app dispondrá de una lista de amigos con los que se porá interactuar de distintas maneras.
+
+ - Nuevas tareas: Se podrán crear tareas rellenando distintos parámetros tales como la duración, el día e incluso usuarios externos que participen en ellas.
+
+ - Buscador: Se podrán buscar las tareas que se deseen a través de un buscador.
+
+ - Calendario compartido: Se podrán crear calendarios compartidos para organizar distintos grupos de trabajos.
+
+ - Foro de calendario: Los calendarios compartidos dfispondrán de un foro o un chat en el que se podrán debatir diferentes cuestiones y publicar avances en las tareas.
+
+ - Ayuda al usuario: La aplicación contendrá un apartado de ayuda al usuario con un tutorial, un FAQ y un chat de ayuda en línea.
 
 
 <h3 id="estado-del-proyecto">Estado del proyecto</h3>
