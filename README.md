@@ -24,14 +24,14 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 
 <h3 id="descripción-del-proyecto">Descripción del proyecto</h3>
-Este proyecto consiste en la creación de una nueva aplicación que sirva como ayuda al usuario para poder organizrse mejor en su dia a dia.
+Este proyecto consiste en la creación de una nueva aplicación que sirva como ayuda al usuario para poder organizrse mejor en su día a día.
 
-Organiza-te es una aplicación que tendrá distintas funcionalidades que se describen mas adelante y que permiten al usuario personalizar un calendario propio en el que puede añadir dia a dia sus tareas y eventos. Además, no solo sirve para personas individuales sino que también tiene la posibilidad de crear calendarios conjuntos con los que poder sincronizar distintas tareas con otros usuarios.
+Organiza-te es una aplicación que tendrá distintas funcionalidades que se describen más adelante y que permiten al usuario personalizar un calendario propio en el que puede añadir día a día sus tareas y eventos. Además, no solo sirve para personas individuales sino que también tiene la posibilidad de crear calendarios conjuntos con los que poder sincronizar distintas tareas con otros usuarios.
 
 
 <h3 id="funcionalidades">:hammer:Funcionalidades:hammer:</h3>
 
- - **Inicio de sesion**: Todos los usuarios deberán crearse un perfil e iniciar sesion en la aplicación.
+ - **Inicio de sesión**: Todos los usuarios deberán crearse un perfil e iniciar sesión en la aplicación.
 
  - **Lista de amigos**: La app dispondrá de una lista de amigos con los que se porá interactuar de distintas maneras.
 
@@ -41,7 +41,7 @@ Organiza-te es una aplicación que tendrá distintas funcionalidades que se desc
 
  - **Calendario compartido**: Se podrán crear calendarios compartidos para organizar distintos grupos de trabajos.
 
- - **Foro de calendario**: Los calendarios compartidos dfispondrán de un foro o un chat en el que se podrán debatir diferentes cuestiones y publicar avances en las tareas.
+ - **Foro de calendario**: Los calendarios compartidos dispondrán de un foro o un chat en el que se podrán debatir diferentes cuestiones y publicar avances en las tareas.
 
  - **Ayuda al usuario**: La aplicación contendrá un apartado de ayuda al usuario con un tutorial, un FAQ y un chat de ayuda en línea.
 
