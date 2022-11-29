@@ -33,7 +33,7 @@ Organiza-te es una aplicación que tendrá distintas funcionalidades que se desc
 
  - **Inicio de sesión**: Todos los usuarios deberán crearse un perfil e iniciar sesión en la aplicación.
 
- - **Lista de amigos**: La app dispondrá de una lista de amigos con los que se porá interactuar de distintas maneras.
+ - **Lista de amigos**: La app dispondrá de una lista de amigos con los que se podrá interactuar de distintas maneras.
 
  - **Nuevas tareas**: Se podrán crear tareas rellenando distintos parámetros tales como la duración, el día e incluso usuarios externos que participen en ellas.
 
