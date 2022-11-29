@@ -1,14 +1,14 @@
-<h1 align="center"> ORGANIZA-TE </h1>
-# GESPRO_PracticaGestionTareas_22_23
+<h1 align="center"> <strong> ORGANIZA-TE </strong> </h1>
+<h2 align="left"> <strong> GESPRO_PracticaGestionTareas_22_23 </strong></h2>
 
-#Enunciado
+<h2 align="left">Enunciado</h2>
 Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2022/23. Universidad de Burgos.  Para completar la primera práctica obligatoria sobre gestión de tareas en metodología ágil, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.  Incluid debajo el nombre de los miembros del grupo:
 
 <p align="left">
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
 
-<h2 align="center"> ÍNDICE </h2>
+<h2 align="left"> ÍNDICE </h2>
 
 * [Descripción del proyecto](#descripción-del-proyecto) 
 
@@ -23,8 +23,6 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 * [Autores](#autores)
 
 
-
-
 <h3 id="descripción-del-proyecto">Descripción del proyecto</h3>
 Este proyecto consiste en la creación de una nueva aplicación que sirva como ayuda al usuario para poder organizrse mejor en su dia a dia.
 
@@ -32,19 +30,20 @@ Organiza-te es una aplicación que tendrá distintas funcionalidades que se desc
 
 
 <h3 id="funcionalidades">:hammer:Funcionalidades:hammer:</h3>
- - Inicio de sesion: Todos los usuarios deberán crearse un perfil e iniciar sesion en la aplicación.
 
- - Lista de amigos: La app dispondrá de una lista de amigos con los que se porá interactuar de distintas maneras.
+ - **Inicio de sesion**: Todos los usuarios deberán crearse un perfil e iniciar sesion en la aplicación.
 
- - Nuevas tareas: Se podrán crear tareas rellenando distintos parámetros tales como la duración, el día e incluso usuarios externos que participen en ellas.
+ - **Lista de amigos**: La app dispondrá de una lista de amigos con los que se porá interactuar de distintas maneras.
 
- - Buscador: Se podrán buscar las tareas que se deseen a través de un buscador.
+ - **Nuevas tareas**: Se podrán crear tareas rellenando distintos parámetros tales como la duración, el día e incluso usuarios externos que participen en ellas.
 
- - Calendario compartido: Se podrán crear calendarios compartidos para organizar distintos grupos de trabajos.
+ - **Buscador**: Se podrán buscar las tareas que se deseen a través de un buscador.
 
- - Foro de calendario: Los calendarios compartidos dfispondrán de un foro o un chat en el que se podrán debatir diferentes cuestiones y publicar avances en las tareas.
+ - **Calendario compartido**: Se podrán crear calendarios compartidos para organizar distintos grupos de trabajos.
 
- - Ayuda al usuario: La aplicación contendrá un apartado de ayuda al usuario con un tutorial, un FAQ y un chat de ayuda en línea.
+ - **Foro de calendario**: Los calendarios compartidos dfispondrán de un foro o un chat en el que se podrán debatir diferentes cuestiones y publicar avances en las tareas.
+
+ - **Ayuda al usuario**: La aplicación contendrá un apartado de ayuda al usuario con un tutorial, un FAQ y un chat de ayuda en línea.
 
 
 <h3 id="estado-del-proyecto">Estado del proyecto</h3>
@@ -68,6 +67,7 @@ Para encontrar el apartado de ayuda tendremos distintas opciones que aparecerán
 
 
 <h3 id="autores">Autores</h3> 
+
  - Cristian Fernández Martínez 
 
  - Alicia García Pérez 
@@ -75,5 +75,6 @@ Para encontrar el apartado de ayuda tendremos distintas opciones que aparecerán
  - Rocío González Antón 
 
  - Diego Garda Porto
+
 
 
