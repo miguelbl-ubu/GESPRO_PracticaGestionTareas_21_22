@@ -57,7 +57,7 @@ Por ahora solo está disponible un lenguaje:
 
 En un futuro intentaremos implementar nuevos idiomas como:
 
- - Ingles 
+ - Inglés 
 
  - Alemán 
 
