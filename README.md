@@ -32,7 +32,7 @@ Organiza-te es una aplicación que tendrá distintas funcionalidades que se desc
 
 
 <h3 id="funcionalidades">:hammer:Funcionalidades:hammer:</h3>
-
+- `Funcionalidad 1`: descripción - `Funcionalidad 2`: descrpción - `Funcionalidad 3`: descripción
 
 
 <h3 id="estado-del-proyecto">Estado del proyecto</h3>
