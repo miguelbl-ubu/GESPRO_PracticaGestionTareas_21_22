@@ -22,21 +22,26 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 * [Autores](#autores)
 
-<h3 href="#descripción-del-proyecto">Descripción del proyecto</h3>
+<h3 id="#descripción-del-proyecto">Descripción del proyecto</h3>
 
-<h3 href="#funcionalidades">:hammer:Funcionalidades:hammer:</h3>
+<h3 id="#funcionalidades">:hammer:Funcionalidades:hammer:</h3>
 
-<h3 href="#estado-del-proyecto">Estado del proyecto</h3>
+<h3 id="#estado-del-proyecto">Estado del proyecto</h3>
 :construction: Proyecto en desarrollo :construction:
 
-<h3 href="#lenguaje-soportado">:earth_africa:Lenguaje soportado:earth_africa:</h3>
+<h3 id="#lenguaje-soportado">:earth_africa:Lenguaje soportado:earth_africa:</h3>
 Por ahora solo está disponible un lenguaje:
- - Castellano :flag_es:
-En un futuro intentaremos implementar nuevos idiomas como:
- - Ingles :gb:
- - Alemán :de:
 
-<h3 href="#ayuda">:woman_shrugging:Ayuda:man_shrugging:</h3>
+ - Castellano 
+ 
+En un futuro intentaremos implementar nuevos idiomas como:
+
+ - Ingles 
+ 
+ - Alemán 
+ 
+
+<h3 id="#ayuda">:woman_shrugging:Ayuda:man_shrugging:</h3>
 Para encontrar el apartado de ayuda tendremos distintas opciones que aparecerán en la propia aplicación (se podrá encontrar más información sobre este tema en el wiki).
 
 <h3 href="#autores">Autores</h3> 
