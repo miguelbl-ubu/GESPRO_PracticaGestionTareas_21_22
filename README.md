@@ -57,17 +57,17 @@ Nuestra aplicación contará con retroalimentación por parte de los usuarios, e
 ----
 ### Guía de instalación y funcionamiento
 Para poder utilizar esta aplicación es necesario darla los permisos necesarios, acceso a la cámara y acceso a la galería y acceso a voz y teclado.
-Se podrá acceder al instalador mediante el archivo `Traductorada.apk` que hemos subido a nuestro repositorio y a continuación podrá observar que se inicia la descarga automaticamete cuya localización se determinará en función de sus ajustes opcionales de su navegador. 
+Se podrá acceder al instalador mediante el archivo `Traductorada.apk` que hemos subido a nuestro repositorio y a continuación podrá observar que se inicia la descarga automaticamente cuya localización se determinará en función de sus ajustes opcionales de su navegador. 
 
-Una vez descargado se ejecutara el archivo `Traductorada.apk` y se instalará la aplicación y se accederá a sus funcionalidades: 
-- 1-. En la esquina superior derecha se encontrará un icono de una camara que abrirá la aplicación Camara de Fotos de su dispositivo movil.
-- 2-. Encuentre el texto que queira traducir y pulse el boton inferiror con forma circular.
+Una vez descargado se ejecutará el archivo `Traductorada.apk` y se instalará la aplicación y se accederá a sus funcionalidades: 
+- 1-. En la esquina superior derecha se encontrará un icono de una cámara que abrirá la aplicación Cámara de Fotos de su dispositivo móvil.
+- 2-. Encuentre el texto que quiera traducir y pulse el botón inferior con forma circular.
 - 3-. Inmediatamente saldrá una pestaña emergente que le dejará escoger el idioma que usted desee traducir.
 - 4-. Una vez esperado el tiempo necesario para realizar la traducción por parte de la aplicación se le mostrara la misma imagen pero con el texto traducido    
-              al idioma que used a escogido. 
+              al idioma que usted a escogido. 
 - 5-. Casos de modificación: 
-    - 5.1-. Quiere cambiar el lenguaje a traducir: Podrá viszualizar en la esquina inferior izquiera el logo de un simbolo suma con el cual podrá cambiar el idioma de traducción.
-    - 5.2-. Quiere modificar parte del texto o su totalidad: Pulse encima del texto y se abrira el teclado donde usted podrá realizar los cambios del texto que desee.
+    - 5.1-. Quiere cambiar el lenguaje a traducir: Podrá viszualizar en la esquina inferior izquiera el logo de un símbolo suma con el cual podrá cambiar el idioma de traducción.
+    - 5.2-. Quiere modificar parte del texto o su totalidad: Pulse encima del texto y se abrirá el teclado donde usted podrá realizar los cambios del texto que desee.
     
         
 
