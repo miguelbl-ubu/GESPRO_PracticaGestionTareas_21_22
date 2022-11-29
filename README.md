@@ -66,7 +66,7 @@ Una vez descargado se ejecutará el archivo `Traductorada.apk` y se instalará l
 - 4-. Una vez esperado el tiempo necesario para realizar la traducción por parte de la aplicación se le mostrara la misma imagen pero con el texto traducido    
               al idioma que usted a escogido. 
 - 5-. Casos de modificación: 
-    - 5.1-. Quiere cambiar el lenguaje a traducir: Podrá viszualizar en la esquina inferior izquiera el logo de un símbolo suma con el cual podrá cambiar el idioma de traducción.
+    - 5.1-. Quiere cambiar el lenguaje a traducir: Podrá visualizar en la esquina inferior izquierda el logo de un símbolo suma con el cual podrá cambiar el idioma de traducción.
     - 5.2-. Quiere modificar parte del texto o su totalidad: Pulse encima del texto y se abrirá el teclado donde usted podrá realizar los cambios del texto que desee.
     
         
